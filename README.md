@@ -15,7 +15,7 @@ This app is designed to bring you the finest collection of Shayari, allowing use
 ![image](https://github.com/user-attachments/assets/d2513be2-f757-4af3-b862-ca036ea0d82b)
 
 ## App Screenshots
-![image](https://github.com/user-attachments/assets/f078e239-c324-4dea-8973-6e3a4addce7a |width=100)
+<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/f078e239-c324-4dea-8973-6e3a4addce7a)" width="100" height="100">
 ![image](https://github.com/user-attachments/assets/03f40e10-30fb-4250-b729-08a7612627dc)
 ![image](https://github.com/user-attachments/assets/28c3af1c-3957-42b3-9c9c-3e7cffc547ed)
 
