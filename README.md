@@ -10,7 +10,9 @@ This app is designed to bring you the finest collection of Shayari, allowing use
 **User-friendly Interface:** Enjoy a clean and intuitive UI, designed to provide a seamless user experience.
 
 **Share with Friends:** Easily share your favorite Shayaris via social media, messaging apps, or email.
+## App Icon
 
+![image](https://github.com/user-attachments/assets/d2513be2-f757-4af3-b862-ca036ea0d82b)
 
 ## App Screenshots
 
